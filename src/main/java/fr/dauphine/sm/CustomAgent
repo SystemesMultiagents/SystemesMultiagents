@@ -1,0 +1,6 @@
+package fr.dauphine.sm;
+import jade.core.Agent;
+
+public class CustomAgent extends Agent {
+
+}
